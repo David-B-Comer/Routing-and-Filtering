@@ -1,6 +1,6 @@
 package gateway;
 
-import com.example.routingandfilteringgateway.filters.pre.SimpleFilter;
+import gateway.filters.pre.SimpleFilter;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
