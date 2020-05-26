@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Routing and Filtering.iml" filepath="$PROJECT_DIR$/.idea/Routing and Filtering.iml" />
       <module fileurl="file://$PROJECT_DIR$/book [routing-and-filtering-book]/book [routing-and-filtering-book].iml" filepath="$PROJECT_DIR$/book [routing-and-filtering-book]/book [routing-and-filtering-book].iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway [routing-and-filtering-gateway]/gateway [routing-and-filtering-gateway].iml" filepath="$PROJECT_DIR$/gateway [routing-and-filtering-gateway]/gateway [routing-and-filtering-gateway].iml" />
     </modules>
   </component>
 </project>

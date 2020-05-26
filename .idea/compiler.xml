@@ -7,16 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="book [routing-and-filtering-book]" />
+        <module name="gateway [routing-and-filtering-gateway]" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="book [routing-and-filtering-book]" target="1.8" />
+      <module name="gateway [routing-and-filtering-gateway]" target="1.8" />
       <module name="Routing and Filtering" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="book [routing-and-filtering-book]" options="-parameters" />
+      <module name="gateway [routing-and-filtering-gateway]" options="-parameters" />
     </option>
   </component>
 </project>
